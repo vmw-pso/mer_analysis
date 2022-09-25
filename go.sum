@@ -1,0 +1,4 @@
+github.com/gocarina/gocsv v0.0.0-20220914091333-ceebdd90b590 h1:kIpPkB0pou96A3BcLtWVtyPyX4Egz+8kcpjCkjmLwvc=
+github.com/gocarina/gocsv v0.0.0-20220914091333-ceebdd90b590/go.mod h1:5YoVOkjYAQumqlV356Hj3xeYh4BdZuLE0/nRkf2NKkI=
+github.com/vmw-pso/eve v0.0.0-20220924233445-a363deaef4a5 h1:igScSzfKN4eOLNNZ4KH8x+75IfbIbcQ9zucSbYW2g2A=
+github.com/vmw-pso/eve v0.0.0-20220924233445-a363deaef4a5/go.mod h1:He1lVEq+YuEOSC5sCqj3to6NxZa+UxUcz4r04wLiPO8=
