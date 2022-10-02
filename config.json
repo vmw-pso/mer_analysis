@@ -1,0 +1,17 @@
+{
+    "mau": 200000,
+    "distribution": {
+        "highsec": 0.75,
+        "lowsec": 0.08,
+        "nullsec": 0.13,
+        "wormhole":0.04
+    },
+    "systems": {
+        "highsec": 1192,
+        "lowsec": 688,
+        "nullsec": 3321,
+        "jove": 230,
+        "wormhole": 2604,
+        "abyssal": 200
+    }
+}
